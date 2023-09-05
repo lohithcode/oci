@@ -19,7 +19,7 @@ Resources created by the script will be removed when the script is done.
 How to use:
  - Install OCI CLI and setup ~/.oci folder with config and keys for API authentication.
  - then run the oci_launch.py <path to your ssh public key>
- 
-   e.g # python3 launch_oci.py ~/.ssh/mykey.pub
-
+ ```
+    # python3 launch_oci.py ~/.ssh/mykey.pub
+```
    
